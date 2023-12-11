@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-gpu
+FROM tensorflow/tensorflow:2.12.0-gpu
 
 RUN groupadd --gid 5000 tfuser \
     && useradd --home-dir /home/tfuser --create-home --uid 5000 \
