@@ -1,7 +1,9 @@
 numpy 
 pandas 
 matplotlib
-skimage
+scikit-image
 scikit-learn
 scipy
 wandb
+ipykernel
+jupyter
