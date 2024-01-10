@@ -1,122 +1,122 @@
 {
     "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.29",
     "python": "3.8.10",
-    "heartbeatAt": "2024-01-09T16:48:54.307228",
-    "startedAt": "2024-01-09T16:48:52.807352",
+    "heartbeatAt": "2024-01-10T19:07:03.908487",
+    "startedAt": "2024-01-10T19:07:03.152965",
     "docker": null,
     "cuda": null,
     "args": [],
     "state": "running",
     "program": "<python with no main file>",
     "codePathLocal": null,
-    "host": "2c8408f4b0d0",
+    "host": "4172b61f37fe",
     "username": "tfuser",
-    "executable": "/usr/bin/python",
+    "executable": "/bin/python3.8",
     "cpu_count": 10,
     "cpu_count_logical": 20,
     "cpu_freq": {
-        "current": 3494.398,
+        "current": 3494.4000000000005,
         "min": 0.0,
         "max": 0.0
     },
     "cpu_freq_per_core": [
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         },
         {
-            "current": 3494.398,
+            "current": 3494.4,
             "min": 0.0,
             "max": 0.0
         }
@@ -124,7 +124,7 @@
     "disk": {
         "/": {
             "total": 1006.853931427002,
-            "used": 27.81320571899414
+            "used": 27.976680755615234
         }
     },
     "gpu": "NVIDIA GeForce RTX 4090",
